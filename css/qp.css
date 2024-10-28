@@ -5,6 +5,21 @@
     border: 1px solid black;
 }
 
+div.qp-node-label-cost {
+}
+
+div.qp-node-label-time {
+    color: orange;
+}
+
+div.qp-node-label-cardinality {
+    color: gray;
+}
+
+div.qp-node-label-2-warning {
+    color: red;
+}
+
 div.qp-node,
 div.qp-tt {
     font-size: 11px;
